@@ -15,6 +15,10 @@ This is a simple tax calculator web application that calculates the tax to be pa
 ## How Tax is Calculated
 
 The tax calculation is based on the following criteria:
+- The tax calculation works based on this formula -
+    - Overall income (after deductions) under 8 (≤) Lakhs is not taxed.
+    - Ex - if Gross Annual Income + Extra Income - Deductions =  6 Lakhs, no tax
+  - if Gross Annual Income + Extra Income - Deductions =  9 Lakhs, tax
 
 - If the total income after deductions is greater than ₹800,000:
   - For individuals under 40 years: 30% of the income over ₹800,000 is taxed.
