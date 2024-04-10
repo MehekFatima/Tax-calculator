@@ -28,9 +28,13 @@ The application is deployed and accessible at [Tax Calculator](https://tax-calcu
 
 ## Screenshots
 
-Include screenshots or GIFs demonstrating the functionality and appearance of your application.
+![Screenshot 1](https://github.com/MehekFatima/Tax-calculator/blob/main/fiveTh.png?raw=true)
+![Screenshot 2](https://github.com/MehekFatima/Tax-calculator/blob/main/fiveThTax.png?raw=true)
+![Screenshot 3](https://github.com/MehekFatima/Tax-calculator/blob/main/TaxIncome.png?raw=true)
+![Screenshot 4](https://github.com/MehekFatima/Tax-calculator/blob/main/tooltip.png?raw=true)
+![Screenshot 5](https://github.com/MehekFatima/Tax-calculator/blob/main/wrongInput.png?raw=true)
 
-![Screenshot 1](https://url-to-your-screenshot-1.png)
-![Screenshot 2](https://url-to-your-screenshot-2.png)
-![Screenshot 3](https://url-to-your-screenshot-1.png)
-![Screenshot 4](https://url-to-your-screenshot-2.png)
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
